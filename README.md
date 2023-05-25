@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @PierreFrs
-- 👀 I’m interested in a lot of stuff
-- 🌱 I’m currently learning vanilla Javascript
-- 📫 How to reach me ...
+# Hello there ! 😎
+<!-- about me -->
+### <img src="https://media.tenor.com/6BwwiXkqO3QAAAAd/france-eiffel-tower.gif" width=100> I am Pierre, a developer living in France. I am currently looking for an apprenticeship and will be delighted to bring my skills to the betterment of your projects !
+<!-- stack -->
+## What I use :
 
-<!---
-PierreFrs/PierreFrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=e34c26&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=264de4&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=f7df1e&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&textfill=61DBFB&fill=242443&text=false&animation=spin)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&textfill=3c873a&fill=303030&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&textfill=589636&fill=E8E7D5&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&textfill=00758F&fill=F29111&text=false)](https://github.com/harish-sethuraman/readme-components)
+
+## What I'm learning right now :
+
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&textfill=000000&fill=5382a1&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&textfill=3490dc&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
+
+## Reach me on :
+
+
+
+
+
+
+
+Thanks to https://github.com/harish-sethuraman for the stack logos 👏

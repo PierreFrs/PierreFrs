@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PierreFrs
 - 👀 I’m interested in a lot of stuff
 - 🌱 I’m currently learning vanilla Javascript
-- 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me ...
 
 <!---

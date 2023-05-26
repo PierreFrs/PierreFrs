@@ -3,6 +3,7 @@
 ### <img src="https://media.tenor.com/6BwwiXkqO3QAAAAd/france-eiffel-tower.gif" width=100> I am Pierre, a developer living in France. I am currently looking for an apprenticeship and will be delighted to bring my skills to the betterment of your projects !
 <!-- stack -->
 ## What I use :
+### Stack :
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=e34c26&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=264de4&text=false)](https://github.com/harish-sethuraman/readme-components)
@@ -12,14 +13,23 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&textfill=589636&fill=E8E7D5&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&textfill=00758F&fill=F29111&text=false)](https://github.com/harish-sethuraman/readme-components)
 
+### Environnement :
+
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&textfill=0078d7&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=windows&textfill=ffffff&fill=0078d4&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linux&textfill=333333&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
+
 ## What I'm learning right now :
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&textfill=000000&fill=5382a1&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=eclipseide&textfill=2C2255&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&textfill=3490dc&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
 
 ## Reach me on :
 
-
+[https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white]
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 
 

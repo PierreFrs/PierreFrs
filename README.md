@@ -27,12 +27,12 @@
 
 ## Reach me on :
 
-[https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white]
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![my website badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pierrefraisse-portfolio.netlify.app/)
+[![gmailbadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pierrefraisse90@gmail.com)
+[![linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-fraisse-83b4b5253/)
 
 
 
 
 
-Thanks to https://github.com/harish-sethuraman for the stack logos 👏
+Thanks to https://github.com/harish-sethuraman for the stack logos, https://dev.to/envoy_/150-badges-for-github-pnk for the badges 👏

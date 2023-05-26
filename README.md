@@ -1,6 +1,9 @@
 # Hello there ! 😎
 <!-- about me -->
 ### <img src="https://media.tenor.com/6BwwiXkqO3QAAAAd/france-eiffel-tower.gif" width=100> I am Pierre, a developer living in France. I am currently looking for an apprenticeship and will be delighted to bring my skills to the betterment of your projects !
+
+<br>
+
 <!-- stack -->
 ## What I use :
 ### Stack :
@@ -24,9 +27,17 @@
 
 ## What I'm learning right now :
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&textfill=000000&fill=5382a1&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&textfill=000000&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=apachemaven&textfill=F37022&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=eclipseide&textfill=2C2255&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&textfill=3490dc&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
+
+## What I'm planning to learn :
+
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=docker&textfill=0db7ed&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=heroku&textfill=f8fafc&fill=6762A6&text=false)](https://github.com/harish-sethuraman/readme-components)
+
+<br>
 
 ## Reach me on :
 

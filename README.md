@@ -10,6 +10,7 @@
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=e34c26&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=264de4&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&textfill=3490dc&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=sass&textfill=f8fafc&fill=CD6799&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=f7df1e&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&textfill=61DBFB&fill=242443&text=false&animation=spin)](https://github.com/harish-sethuraman/readme-components)
@@ -30,7 +31,6 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&textfill=000000&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=apachemaven&textfill=F37022&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=eclipseide&textfill=2C2255&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&textfill=3490dc&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
 
 ## What I'm planning to learn :
 

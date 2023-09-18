@@ -1,6 +1,6 @@
 # Hello there ! 😎
 <!-- about me -->
-### <img src="https://media.tenor.com/6BwwiXkqO3QAAAAd/france-eiffel-tower.gif" width=100> I am Pierre, a developer living in France. I am currently as a fullstack .NET/Angular developer !
+### <img src="https://media.tenor.com/6BwwiXkqO3QAAAAd/france-eiffel-tower.gif" width=100> I am Pierre, a developer living in France. I am currently working at RecyGroup as a fullstack .NET/Angular developer !
 
 <br>
 

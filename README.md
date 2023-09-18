@@ -1,6 +1,6 @@
 # Hello there ! 😎
 <!-- about me -->
-### <img src="https://media.tenor.com/6BwwiXkqO3QAAAAd/france-eiffel-tower.gif" width=100> I am Pierre, a developer living in France. I am currently looking for an apprenticeship and will be delighted to bring my skills to the betterment of your projects !
+### <img src="https://media.tenor.com/6BwwiXkqO3QAAAAd/france-eiffel-tower.gif" width=100> I am Pierre, a developer living in France. I am currently as a fullstack .NET/Angular developer !
 
 <br>
 

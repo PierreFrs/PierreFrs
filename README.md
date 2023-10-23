@@ -8,19 +8,23 @@
 ## What I use :
 ### Stack :
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=e34c26&text=false)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=264de4&text=false)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&textfill=3490dc&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=sass&textfill=f8fafc&fill=CD6799&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Csharp&textfill=9B4993&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=.net&textfill=f8fafc&fill=512bd4&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=000000&fill=f7df1e&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&textfill=61DBFB&fill=242443&text=false&animation=spin)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&textfill=007acc&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=angular&textfill=dd1b16&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&textfill=3490dc&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=sass&textfill=f8fafc&fill=CD6799&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&textfill=3c873a&fill=303030&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&textfill=589636&fill=E8E7D5&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=microsoftsqlserver&textfill=red&fill=white&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&textfill=00758F&fill=F29111&text=false)](https://github.com/harish-sethuraman/readme-components)
 
 ### Environnement :
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&textfill=0078d7&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=jetbrains&textfill=black&fill=white&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=prettier&textfill=333333&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git&textfill=f8fafc&fill=F1502F&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=windows&textfill=ffffff&fill=0078d4&text=false)](https://github.com/harish-sethuraman/readme-components)
@@ -28,21 +32,12 @@
 
 ## What I'm learning right now :
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Csharp&textfill=9B4993&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=.net&textfill=f8fafc&fill=512bd4&text=false)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&textfill=007acc&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=angular&textfill=dd1b16&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=web3&textfill=333333&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
-
-<!--
-
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=eclipseide&textfill=2C2255&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
---->
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=docker&textfill=0db7ed&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
 
 ## What I'm planning to learn :
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=docker&textfill=0db7ed&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=heroku&textfill=f8fafc&fill=6762A6&text=false)](https://github.com/harish-sethuraman/readme-components)
+
 
 <br>
 

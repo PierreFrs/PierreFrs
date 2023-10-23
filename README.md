@@ -32,6 +32,7 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=.net&textfill=f8fafc&fill=512bd4&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&textfill=007acc&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=angular&textfill=dd1b16&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=web3&textfill=333333&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
 
 <!--
 

@@ -1,29 +1,37 @@
-# Hello there ! 😎
+<!-- gif -->
+<img src="assets/hello.gif" alt="hello">
+
+<br>
+
 <!-- about me -->
-### <img src="https://media.tenor.com/6BwwiXkqO3QAAAAd/france-eiffel-tower.gif" width=100> I am Pierre, a developer living in France. I am currently for a job as a fullstack, backend or frontend .NET/Angular developer !
-
-<br>
-
 <!-- stack -->
-## Stack :
-
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=.net&textfill=f8fafc&fill=512bd4&text=false)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=angular&textfill=dd1b16&fill=f8fafc&text=false)](https://github.com/harish-sethuraman/readme-components)
+## My Holy Trinity :
+<img src="assets/NET%20core.png" width="100" height="100" alt="ASP.NET core icon">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/Angular.png" width="100" height="100" alt="Angular icon">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/Docker.png" width="100" height="100" alt="Docker icon">
 
 <br>
 
+<!-- contact -->
 ## Reach me on :
-
-[![my website badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.pierrefraisse.dev/)
-[![gmailbadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pierrefraisse90@gmail.com)
-[![linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-fraisse-83b4b5253/)
-
-<br>
-<br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21h64xlyb74hjtpguumzr3uxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=21h64xlyb74hjtpguumzr3uxq&redirect=true)
+&nbsp;&nbsp;&nbsp;&nbsp; [![my website badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.pierrefraisse.dev/) <br>
+&nbsp;&nbsp;&nbsp;&nbsp; [![gmailbadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pierrefraisse90@gmail.com) <br>
+&nbsp;&nbsp;&nbsp;&nbsp; [![linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-fraisse-83b4b5253/)
 
 <br>
+
+<!-- spotify -->
+## A bit of music ?
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21h64xlyb74hjtpguumzr3uxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 <br>
 
-Thanks to https://github.com/harish-sethuraman for the stack logos, https://dev.to/envoy_/150-badges-for-github-pnk for the badges and https://github.com/kittinan for the spotify player 👏
+<!-- chess.com -->
+## Let's play some chess ?
+https://www.chess.com/member/masaka59
+
+<br>
+
+Thanks to https://dev.to/envoy_/150-badges-for-github-pnk for the badges and https://github.com/kittinan for the spotify player 👏

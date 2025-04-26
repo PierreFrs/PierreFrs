@@ -6,11 +6,11 @@
 <!-- about me -->
 <!-- stack -->
 ## My Holy Trinity :
-<img src="assets/NET%20core.png" width="100" height="100" alt="ASP.NET core icon">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/Angular.png" width="100" height="100" alt="Angular icon">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/Docker.png" width="100" height="100" alt="Docker icon">
+<div style="display: flex; align-items: center; gap: 20px;">
+    <img src="assets/NET%20core.png" width="100" height="100" alt="ASP.NET core icon">
+    <img src="assets/Angular.png" width="100" height="100" alt="Angular icon">
+    <img src="assets/Docker.png" width="100" height="100" alt="Docker icon">
+</div>
 
 <br>
 

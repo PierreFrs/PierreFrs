@@ -1,5 +1,5 @@
 <!-- gif -->
-<img src="assets/hello.gif" alt="hello">
+<img src="assets/hello_cropped.gif" alt="hello">
 
 <br>
 

@@ -23,13 +23,13 @@
 <br>
 
 <!-- spotify -->
-## A bit of music ?
+## A bit of music?
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21h64xlyb74hjtpguumzr3uxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
 <!-- chess.com -->
-## Let's play some chess ?
+## Let's play some chess?
 https://www.chess.com/member/masaka59
 
 <br>

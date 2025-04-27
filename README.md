@@ -16,9 +16,9 @@
 
 <!-- contact -->
 ## Reach me on :
-&nbsp;&nbsp;&nbsp;&nbsp; [![my website badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.pierrefraisse.dev/) <br>
-&nbsp;&nbsp;&nbsp;&nbsp; [![gmailbadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pierrefraisse90@gmail.com) <br>
-&nbsp;&nbsp;&nbsp;&nbsp; [![linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-fraisse-83b4b5253/)
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://portfolio.pierrefraisse.dev/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="my website badge"></a> <br>
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:pierrefraisse90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"></a> <br>
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/pierre-fraisse-83b4b5253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"></a>
 
 <br>
 
